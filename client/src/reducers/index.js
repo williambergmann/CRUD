@@ -8,4 +8,5 @@ function someThing(state = "") {
 const rootReducer = combineReducers({
   someThing
 });
+
 export default rootReducer;

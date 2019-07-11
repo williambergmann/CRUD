@@ -3,7 +3,10 @@
 * Don’t use this readme to figure out what code to type
 * Use all other projects we have done as code examples
 * Pick a real life thing to use as a model. Vehicle, Product, Movie …etc
-* Implement 5 properties for this model. 
+
+Weather Forecast
+* Implement 5 properties for this model.
+Current Location, Temperature, and 5 Day Forecast with Day of the Week, Weather Condition, High Temp, and Low Temp
 
 ## Client
 * Client code goes in client/src
@@ -96,4 +99,3 @@
 
 ## Bonus
 * Create the edit component by reusing the create component
-
